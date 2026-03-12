@@ -9,7 +9,11 @@
       "Bash(python3 -c \"\nimport streamlit, pandas, plotly\nfrom blackjack import hand_from_pair, add_card\nfrom simulation import precompute, sim_hit_by_card, ALL_PAIRS, DEALER_CARDS, CARD_LABEL, CARD_VALUES\nprint\\('All imports OK.'\\)\nprint\\(f'ALL_PAIRS length: {len\\(ALL_PAIRS\\)}'\\)\nprint\\(f'DEALER_CARDS: {DEALER_CARDS}'\\)\n\")",
       "Bash(streamlit run:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git branch:*)",
+      "Bash(git remote:*)",
+      "Bash(git push:*)"
     ]
   }
 }
